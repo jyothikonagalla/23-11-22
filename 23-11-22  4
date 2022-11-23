@@ -1,0 +1,6 @@
+# 23-11-22
+a=int(input('a='))
+if a>0:
+    print('positive number')
+else:
+    print('negative number')
