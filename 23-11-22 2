@@ -1,0 +1,7 @@
+# 23-11-22
+a=int(input('a='))
+b=int(input('b='))
+if a==b:
+    print('equal numbers')
+else:
+    print('not equal')
