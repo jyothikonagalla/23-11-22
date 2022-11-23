@@ -1,0 +1,6 @@
+# 23-11-22
+a=int(input('a='))
+if a%2==0:
+    print('even number')
+else:
+    print('odd number')
